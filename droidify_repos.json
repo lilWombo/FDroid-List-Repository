@@ -728,7 +728,7 @@
       "fingerprint": "33 54 EC 6B C1 9D 1E 2E 36 19 9C 15 96 2A 92 72 74 A0 CB 39 EF 81 0A E6 92 65 9C 1F 92 AD 0E BE",
       "mirrors": ["https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo"]
     }
- {
+  {
   "serialVersion": 1,
   "id": -1,
   "address": "https://fdroid.ggtyler.dev/",
@@ -937,47 +937,6 @@
   "address": "https://fdroid.aniyomi.org/",
   "fingerprint": "2A 01 E8 0E BB 8B 50 B5 D4 C0 BF 7D F4 5F 12 47 9C 47 5F 34 B3 F3 F5 AA 57 97 5C 7E 1B C0 B9 C3",
   "mirrors": ["https://fdroid.aniyomi.org/"]
-}{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://repo.the-sauna.icu/repo",
-  "fingerprint": "44 20 FF D2 35 4D 0E 08 AC B2 F1 F4 78 E0 6A 42 00 B3 CF F5 F5 55 15 B0 8E 83 08 DB D2 B6 EF CE",
-  "mirrors": ["https://repo.the-sauna.icu/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo",
-  "fingerprint": "01 38 34 6C 02 A2 03 25 BF 09 1C 52 BC 76 6C 0B 90 FF 36 DD C7 D4 4C 30 82 F5 A8 B2 14 C9 FC 29",
-  "mirrors": ["https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo",
-  "fingerprint": "35 76 59 6C EC DD 70 48 8D 61 CF D9 07 99 A4 9B 7F FD 26 A8 1A 8F EF 1B AD EC 88 D0 69 FA 72 C1",
-  "mirrors": ["https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo",
-  "fingerprint": "7F 1E 1D C0 3B 47 BE 5A E0 C4 D9 77 B9 3B 41 37 FA 11 49 EA B8 A5 62 CA 0E BC 27 64 84 41 13 DE",
-  "mirrors": ["https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://zimbelstern.eu/fdroid/repo",
-  "fingerprint": "28 51 58 DE CE F3 7C B8 DE 7C 5A F1 48 18 AC BF 4A 9B 1F BE 63 11 67 58 EF C2 67 F9 71 CA 23 AA",
-  "mirrors": ["https://zimbelstern.eu/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo",
-  "fingerprint": "AD F8 1D 67 82 67 B1 F0 30 EC 69 17 48 B3 1D 97 7B A4 F3 E9 DA 55 20 FD 19 06 6A B9 50 3B 99 93",
-  "mirrors": ["https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo"]
 }
 {
   "serialVersion": 1,
@@ -1021,5 +980,7 @@
   "fingerprint": "AD F8 1D 67 82 67 B1 F0 30 EC 69 17 48 B3 1D 97 7B A4 F3 E9 DA 55 20 FD 19 06 6A B9 50 3B 99 93",
   "mirrors": ["https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo"]
 }
-  ]
+]
 }
+
+

@@ -202,42 +202,42 @@
       "address": "https://fdroid.revolt.chat/repo",
       "fingerprint": "0A 9D 2F 61 C8 65 98 01 71 1E 22 17 78 62 F8 4C 81 34 96 6F 42 79 73 03 7A 8F DF AC FF 07 C4 F2",
       "mirrors": ["https://fdroid.revolt.chat/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://bubu1.eu/fdroidclassic/fdroid/repo",
-      "fingerprint": "51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A",
-      "mirrors": ["https://bubu1.eu/fdroidclassic/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://fdroid.stackwallet.com",
-      "fingerprint": "76 4B 42 62 F7 57 50 A5 F6 20 A2 05 CE E2 88 6F 18 63 5F BD A1 8D F4 07 58 F5 A1 A4 5A 95 0F 84",
-      "mirrors": ["https://fdroid.stackwallet.com"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://fdroid.typeblog.net/",
-      "fingerprint": "1A 7E 44 6C 49 1C 80 BC 2F 83 84 4A 26 38 78 87 99 0F 97 F2 F3 79 AE 7B 10 96 79 FE AE 3D BC 8C",
-      "mirrors": ["https://fdroid.typeblog.net/"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://kaffeemitkoffein.de/fdroid/repo",
-      "fingerprint": "2F 27 5C B8 37 35 FE 79 75 44 9C E8 00 CA 84 07 B5 01 9D 5F 7B 6A BC B3 0F 36 51 C5 20 A3 72 61",
-      "mirrors": ["https://kaffeemitkoffein.de/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://releases.nailyk.fr/repo",
-      "fingerprint": "05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78",
-      "mirrors": ["https://releases.nailyk.fr/repo"]
     }
+{
+  "serialVersion": 1,
+  "id": -1,
+  "address": "https://bubu1.eu/fdroidclassic/fdroid/repo",
+  "fingerprint": "51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A",
+  "mirrors": ["https://bubu1.eu/fdroidclassic/fdroid/repo"]
+},
+{
+  "serialVersion": 1,
+  "id": -1,
+  "address": "https://fdroid.stackwallet.com",
+  "fingerprint": "76 4B 42 62 F7 57 50 A5 F6 20 A2 05 CE E2 88 6F 18 63 5F BD A1 8D F4 07 58 F5 A1 A4 5A 95 0F 84",
+  "mirrors": ["https://fdroid.stackwallet.com"]
+},
+{
+  "serialVersion": 1,
+  "id": -1,
+  "address": "https://fdroid.typeblog.net/",
+  "fingerprint": "1A 7E 44 6C 49 1C 80 BC 2F 83 84 4A 26 38 78 87 99 0F 97 F2 F3 79 AE 7B 10 96 79 FE AE 3D BC 8C",
+  "mirrors": ["https://fdroid.typeblog.net/"]
+},
+{
+  "serialVersion": 1,
+  "id": -1,
+  "address": "https://kaffeemitkoffein.de/fdroid/repo",
+  "fingerprint": "2F 27 5C B8 37 35 FE 79 75 44 9C E8 00 CA 84 07 B5 01 9D 5F 7B 6A BC B3 0F 36 51 C5 20 A3 72 61",
+  "mirrors": ["https://kaffeemitkoffein.de/fdroid/repo"]
+},
+{
+  "serialVersion": 1,
+  "id": -1,
+  "address": "https://releases.nailyk.fr/repo",
+  "fingerprint": "05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78",
+  "mirrors": ["https://releases.nailyk.fr/repo"]
+},
 {
   "serialVersion": 1,
   "id": -1,
@@ -661,326 +661,254 @@
     {
       "serialVersion": 1,
       "id": -1,
+      "address": "https://fdroid.ggtyler.dev/",
+      "fingerprint": "12 D4 F6 47 71 0D BB 0F AF DE 0F BE 9C 21 27 EC B5 3C FE 0E 8B 1C B2 DE 56 B7 04 FC E3 30 A0 F8",
+      "mirrors": ["https://fdroid.ggtyler.dev/"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://www.cromite.org/fdroid/repo",
+      "fingerprint": "49 F3 7E 74 DE E4 83 DC A2 B9 91 33 4F B5 A0 20 07 87 43 0D 0B 5F 9A 78 3D D5 F1 36 95 E9 51 7B",
+      "mirrors": ["https://www.cromite.org/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo",
+      "fingerprint": "C5 70 5F F7 24 53 8F 69 25 B6 09 35 17 F5 3C 6C 6B B6 CF 82 51 8E D4 0E B4 B8 CB BB 87 DC 0D 1D",
+      "mirrors": ["http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://app.futo.org/fdroid/repo",
+      "fingerprint": "39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D",
+      "mirrors": ["https://app.futo.org/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://f-droid.garykim.dev/fdroid/repo",
+      "fingerprint": "D3 FF AF 80 54 8C A4 74 DC 9B 2D DD CD FC AC 91 23 F0 6D FF 27 3A AF D5 E0 2C 24 36 AD 2A 9E 2C",
+      "mirrors": ["https://f-droid.garykim.dev/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://releases.threema.ch/fdroid/repo",
+      "fingerprint": "57 34 E7 53 89 9B 25 77 5D 90 FE 85 36 2A 49 86 6E 05 AC 4F 83 C0 5B EF 5A 92 88 0D 29 10 63 9E",
+      "mirrors": ["https://releases.threema.ch/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://raw.githubusercontent.com/vaginessa/essential-repo/master/fdroid/repo",
+      "fingerprint": "F3 A2 C9 0A 3D 56 18 46 23 42 4E 0B 1E 4C 19 CD 18 57 9A 86 F4 D2 CD 6F 24 D8 02 C9 F7 7E 27 BC",
+      "mirrors": ["https://raw.githubusercontent.com/vaginessa/essential-repo/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo",
+      "fingerprint": "5E 91 81 C8 18 BD 1D 28 E8 64 28 21 97 1C 56 94 38 DF 63 2E 67 15 05 FD 6E 9D B6 94 07 22 B5 6F",
+      "mirrors": ["https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://update.invizbox.com/fdroid/repo",
+      "fingerprint": "FF A1 A8 10 B4 86 08 13 5E EF D7 C6 92 F2 30 61 72 FB 57 85 49 C4 11 1A 70 26 63 74 A1 19 D1 89",
+      "mirrors": ["https://update.invizbox.com/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.storchp.de/fdroid/repo",
+      "fingerprint": "99 98 5A 7E 73 DC B0 B1 6C 9B DD CE 7A 0B 49 96 F8 80 68 AE 7C 77 1E D5 3E 21 7E 69 CD 1F F1 96",
+      "mirrors": ["https://fdroid.storchp.de/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://gitjournal.io/fdroid/repo",
+      "fingerprint": "E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74",
+      "mirrors": ["https://gitjournal.io/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "http://fdroid.frostnerd.com/",
+      "fingerprint": "74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26",
+      "mirrors": ["http://fdroid.frostnerd.com/"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "http://fdroidarchive.frostnerd.com",
+      "fingerprint": "74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26",
+      "mirrors": ["http://fdroidarchive.frostnerd.com"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo",
+      "fingerprint": "90 B5 B0 DD E2 0A 84 FB 42 CB 96 0F 41 D2 79 B0 D3 BB 86 57 8A 42 E7 73 36 4A 55 34 C0 E8 D2 7A",
+      "mirrors": ["https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo",
+      "fingerprint": "64 B2 ED 80 A4 4B 62 AF 47 E6 E8 F8 E9 2D 8C D9 37 1F 97 B9 1D CC B0 17 98 54 82 79 DF 0A F6 9E",
+      "mirrors": ["https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://f-droid.monerujo.io/fdroid/repo",
+      "fingerprint": "A8 2C 68 E1 4A F0 AA 6A 2E C2 0E 6B 27 2E FF 25 E5 A0 38 F3 F6 58 84 31 6E 0F 5E 0D 91 E7 B7 13",
+      "mirrors": ["https://f-droid.monerujo.io/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo",
+      "fingerprint": "7E 04 F9 02 94 0A 2A ED AC 30 E4 91 A5 CE 7A DC C7 4A 3F 73 B4 34 59 E4 44 82 22 F3 EE E6 29 EF",
+      "mirrors": ["https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo",
+      "fingerprint": "FD 14 6E F3 0F A9 F8 F0 75 BD CD 9F 02 F0 69 D2 20 61 B1 DF 7C C9 0E 90 82 17 50 A7 18 4B F5 3D",
+      "mirrors": ["https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.krombel.de/element-dev-gplay/fdroid/repo",
+      "fingerprint": "55 64 AB 4D 4B F9 46 1A F7 95 54 49 24 6F 12 D7 E7 92 A8 D6 51 65 EB B2 C0 E9 0E 65 E7 7D 50 95",
+      "mirrors": ["https://fdroid.krombel.de/element-dev-gplay/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo",
+      "fingerprint": "31 2E 07 B9 44 4D 0D 1B 61 5E BB AA C5 5E A4 E5 A5 4E 12 3C 3B EF CC A5 D1 8B 5E 12 DF C9 5B DC",
+      "mirrors": ["https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://eyedeekay.github.io/fdroid/repo",
+      "fingerprint": "22 65 8C C6 9F 48 D6 3F 63 C3 D6 4E 20 41 C8 17 14 E2 74 9F 3F 6E 54 45 C8 25 29 7A 00 DD C5 B6",
+      "mirrors": ["https://eyedeekay.github.io/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://dev.sum7.eu/sum7/Conversations-nightly/raw/master/fdroid/repo",
+      "fingerprint": "C7 E9 50 80 38 F1 8C 95 5B AA C0 F0 4E F5 5E 4E ED B3 1A 9A FB 2E 33 3A D3 9F 1B 68 4F DD 63 09",
+      "mirrors": ["https://dev.sum7.eu/sum7/Conversations-nightly/raw/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo",
+      "fingerprint": "4B 6F 21 3E B2 A6 1B 11 04 7C 55 09 D7 95 6A 20 A0 C9 69 AF 60 8B 85 E1 C8 85 4E 9A 88 8D F9 BE",
+      "mirrors": ["https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.cakelabs.com/",
+      "fingerprint": "EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0 64 E5 5F 87 55",
+      "mirrors": ["https://fdroid.cakelabs.com/"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo",
+      "fingerprint": "EC 43 61 0D 9A CC A5 D2 42 6E B2 D5 EB 74 33 19 30 01 4D E7 9D 3C 3A CB C1 7D FE 58 AA 12 60 5F",
+      "mirrors": ["https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://ltt.rs/fdroid/repo",
+      "fingerprint": "9C 2E 57 C8 5C 27 9E 5E 1A 42 7F 6E 87 92 7F C1 E2 27 8F 62 D6 1D 7F CE FD E9 34 6E 56 8C CF 86",
+      "mirrors": ["https://ltt.rs/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.cgeo.org/",
+      "fingerprint": "37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98",
+      "mirrors": ["https://fdroid.cgeo.org/"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.cgeo.org/legacy",
+      "fingerprint": "37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98",
+      "mirrors": ["https://fdroid.cgeo.org/legacy"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.cgeo.org/nightly",
+      "fingerprint": "58 AC 10 2C 3D 6F 16 D0 F4 38 64 15 D7 5B C0 EB 64 46 8C 38 17 41 0E A0 A4 DA 28 91 2E 82 6F 08",
+      "mirrors": ["https://fdroid.cgeo.org/nightly"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://fdroid.aniyomi.org/",
+      "fingerprint": "2A 01 E8 0E BB 8B 50 B5 D4 C0 BF 7D F4 5F 12 47 9C 47 5F 34 B3 F3 F5 AA 57 97 5C 7E 1B C0 B9 C3",
+      "mirrors": ["https://fdroid.aniyomi.org/"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://repo.the-sauna.icu/repo",
+      "fingerprint": "44 20 FF D2 35 4D 0E 08 AC B2 F1 F4 78 E0 6A 42 00 B3 CF F5 F5 55 15 B0 8E 83 08 DB D2 B6 EF CE",
+      "mirrors": ["https://repo.the-sauna.icu/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo",
+      "fingerprint": "01 38 34 6C 02 A2 03 25 BF 09 1C 52 BC 76 6C 0B 90 FF 36 DD C7 D4 4C 30 82 F5 A8 B2 14 C9 FC 29",
+      "mirrors": ["https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo",
+      "fingerprint": "35 76 59 6C EC DD 70 48 8D 61 CF D9 07 99 A4 9B 7F FD 26 A8 1A 8F EF 1B AD EC 88 D0 69 FA 72 C1",
+      "mirrors": ["https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo",
+      "fingerprint": "7F 1E 1D C0 3B 47 BE 5A E0 C4 D9 77 B9 3B 41 37 FA 11 49 EA B8 A5 62 CA 0E BC 27 64 84 41 13 DE",
+      "mirrors": ["https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
+      "address": "https://zimbelstern.eu/fdroid/repo",
+      "fingerprint": "28 51 58 DE CE F3 7C B8 DE 7C 5A F1 48 18 AC BF 4A 9B 1F BE 63 11 67 58 EF C2 67 F9 71 CA 23 AA",
+      "mirrors": ["https://zimbelstern.eu/fdroid/repo"]
+    },
+    {
+      "serialVersion": 1,
+      "id": -1,
       "address": "https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo",
       "fingerprint": "AD F8 1D 67 82 67 B1 F0 30 EC 69 17 48 B3 1D 97 7B A4 F3 E9 DA 55 20 FD 19 06 6A B9 50 3B 99 93",
       "mirrors": ["https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://raw.githubusercontent.com/Five-Prayers/fdroid-repo-stable/main/fdroid/repo",
-      "fingerprint": "C8 E3 6E 27 BA 66 CB 81 D9 24 9C 55 C6 7A 8E 53 21 AF DB CC F8 1E EB 0D 49 5E 8E 3A 01 FE 16 93",
-      "mirrors": ["https://raw.githubusercontent.com/Five-Prayers/fdroid-repo-stable/main/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://iitc.app/fdroid/repo",
-      "fingerprint": "B7 89 9F B6 61 89 6B 37 4D 10 03 A3 1B A1 C5 41 39 A9 EF DC 6B 9D 53 A7 0F 51 80 76 8E F1 97 B9",
-      "mirrors": ["https://iitc.app/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://julianfairfax.gitlab.io/fdroid-repo/fdroid/repo",
-      "fingerprint": "83 AB B5 48 CA A6 F3 11 CE 35 91 DD CA 46 6B 65 21 3F D0 54 13 52 50 27 02 B1 90 8F 0C 84 20 6D",
-      "mirrors": ["https://julianfairfax.gitlab.io/fdroid-repo/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://repo.nononsenseapps.com/fdroid/repo",
-      "fingerprint": "5B 70 C7 51 8C 04 B2 51 78 D9 7B F6 60 60 BF 79 93 4B F9 1D FA 70 85 F5 5B 78 56 2C 23 39 87 E6",
-      "mirrors": ["https://repo.nononsenseapps.com/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://fdroid.novy.software/repo",
-      "fingerprint": "B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3",
-      "mirrors": ["https://fdroid.novy.software/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://ouchadam.github.io/fdroid-repository/repo",
-      "fingerprint": "56 F3 78 F9 BB 7D 59 BB 3E A7 43 1B 2C BB 31 B3 51 B2 D3 F7 C2 C6 6E 0B 99 CF A8 B0 CE C9 CF CA",
-      "mirrors": ["https://ouchadam.github.io/fdroid-repository/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://raw.githubusercontent.com/jackbonadies/seekerandroid/fdroid/fdroid/repo",
-      "fingerprint": "D9 61 3C 10 6A 63 D6 32 F0 F1 55 97 F4 A9 1C 27 6D 3C 6E D1 52 F1 95 18 C3 A5 57 3B F8 DA 23 75",
-      "mirrors": ["https://raw.githubusercontent.com/jackbonadies/seekerandroid/fdroid/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://git.hush.is/jahway603/sda-fdroid/raw/branch/master/fdroid/repo",
-      "fingerprint": "06 96 F6 4F 3E FC BF 91 4D A4 1E 65 A8 A0 EE 0D F8 D7 DD EC 4C E0 90 BA BD 7E 70 03 ED AA C5 8B",
-      "mirrors": ["https://git.hush.is/jahway603/sda-fdroid/raw/branch/master/fdroid/repo"]
-    },
-    {
-      "serialVersion": 1,
-      "id": -1,
-      "address": "https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo",
-      "fingerprint": "33 54 EC 6B C1 9D 1E 2E 36 19 9C 15 96 2A 92 72 74 A0 CB 39 EF 81 0A E6 92 65 9C 1F 92 AD 0E BE",
-      "mirrors": ["https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo"]
     }
-  {
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.ggtyler.dev/",
-  "fingerprint": "12 D4 F6 47 71 0D BB 0F AF DE 0F BE 9C 21 27 EC B5 3C FE 0E 8B 1C B2 DE 56 B7 04 FC E3 30 A0 F8",
-  "mirrors": ["https://fdroid.ggtyler.dev/"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://www.cromite.org/fdroid/repo",
-  "fingerprint": "49 F3 7E 74 DE E4 83 DC A2 B9 91 33 4F B5 A0 20 07 87 43 0D 0B 5F 9A 78 3D D5 F1 36 95 E9 51 7B",
-  "mirrors": ["https://www.cromite.org/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo",
-  "fingerprint": "C5 70 5F F7 24 53 8F 69 25 B6 09 35 17 F5 3C 6C 6B B6 CF 82 51 8E D4 0E B4 B8 CB BB 87 DC 0D 1D",
-  "mirrors": ["http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://app.futo.org/fdroid/repo",
-  "fingerprint": "39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D",
-  "mirrors": ["https://app.futo.org/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://f-droid.garykim.dev/fdroid/repo",
-  "fingerprint": "D3 FF AF 80 54 8C A4 74 DC 9B 2D DD CD FC AC 91 23 F0 6D FF 27 3A AF D5 E0 2C 24 36 AD 2A 9E 2C",
-  "mirrors": ["https://f-droid.garykim.dev/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://releases.threema.ch/fdroid/repo",
-  "fingerprint": "57 34 E7 53 89 9B 25 77 5D 90 FE 85 36 2A 49 86 6E 05 AC 4F 83 C0 5B EF 5A 92 88 0D 29 10 63 9E",
-  "mirrors": ["https://releases.threema.ch/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/vaginessa/essential-repo/master/fdroid/repo",
-  "fingerprint": "F3 A2 C9 0A 3D 56 18 46 23 42 4E 0B 1E 4C 19 CD 18 57 9A 86 F4 D2 CD 6F 24 D8 02 C9 F7 7E 27 BC",
-  "mirrors": ["https://raw.githubusercontent.com/vaginessa/essential-repo/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo",
-  "fingerprint": "5E 91 81 C8 18 BD 1D 28 E8 64 28 21 97 1C 56 94 38 DF 63 2E 67 15 05 FD 6E 9D B6 94 07 22 B5 6F",
-  "mirrors": ["https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://update.invizbox.com/fdroid/repo",
-  "fingerprint": "FF A1 A8 10 B4 86 08 13 5E EF D7 C6 92 F2 30 61 72 FB 57 85 49 C4 11 1A 70 26 63 74 A1 19 D1 89",
-  "mirrors": ["https://update.invizbox.com/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.storchp.de/fdroid/repo",
-  "fingerprint": "99 98 5A 7E 73 DC B0 B1 6C 9B DD CE 7A 0B 49 96 F8 80 68 AE 7C 77 1E D5 3E 21 7E 69 CD 1F F1 96",
-  "mirrors": ["https://fdroid.storchp.de/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://gitjournal.io/fdroid/repo",
-  "fingerprint": "E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74",
-  "mirrors": ["https://gitjournal.io/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "http://fdroid.frostnerd.com/",
-  "fingerprint": "74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26",
-  "mirrors": ["http://fdroid.frostnerd.com/"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "http://fdroidarchive.frostnerd.com",
-  "fingerprint": "74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26",
-  "mirrors": ["http://fdroidarchive.frostnerd.com"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo",
-  "fingerprint": "90 B5 B0 DD E2 0A 84 FB 42 CB 96 0F 41 D2 79 B0 D3 BB 86 57 8A 42 E7 73 36 4A 55 34 C0 E8 D2 7A",
-  "mirrors": ["https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo",
-  "fingerprint": "64 B2 ED 80 A4 4B 62 AF 47 E6 E8 F8 E9 2D 8C D9 37 1F 97 B9 1D CC B0 17 98 54 82 79 DF 0A F6 9E",
-  "mirrors": ["https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://f-droid.monerujo.io/fdroid/repo",
-  "fingerprint": "A8 2C 68 E1 4A F0 AA 6A 2E C2 0E 6B 27 2E FF 25 E5 A0 38 F3 F6 58 84 31 6E 0F 5E 0D 91 E7 B7 13",
-  "mirrors": ["https://f-droid.monerujo.io/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo",
-  "fingerprint": "7E 04 F9 02 94 0A 2A ED AC 30 E4 91 A5 CE 7A DC C7 4A 3F 73 B4 34 59 E4 44 82 22 F3 EE E6 29 EF",
-  "mirrors": ["https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo",
-  "fingerprint": "FD 14 6E F3 0F A9 F8 F0 75 BD CD 9F 02 F0 69 D2 20 61 B1 DF 7C C9 0E 90 82 17 50 A7 18 4B F5 3D",
-  "mirrors": ["https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.krombel.de/element-dev-gplay/fdroid/repo",
-  "fingerprint": "55 64 AB 4D 4B F9 46 1A F7 95 54 49 24 6F 12 D7 E7 92 A8 D6 51 65 EB B2 C0 E9 0E 65 E7 7D 50 95",
-  "mirrors": ["https://fdroid.krombel.de/element-dev-gplay/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo",
-  "fingerprint": "31 2E 07 B9 44 4D 0D 1B 61 5E BB AA C5 5E A4 E5 A5 4E 12 3C 3B EF CC A5 D1 8B 5E 12 DF C9 5B DC",
-  "mirrors": ["https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://eyedeekay.github.io/fdroid/repo",
-  "fingerprint": "22 65 8C C6 9F 48 D6 3F 63 C3 D6 4E 20 41 C8 17 14 E2 74 9F 3F 6E 54 45 C8 25 29 7A 00 DD C5 B6",
-  "mirrors": ["https://eyedeekay.github.io/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://dev.sum7.eu/sum7/Conversations-nightly/raw/master/fdroid/repo",
-  "fingerprint": "C7 E9 50 80 38 F1 8C 95 5B AA C0 F0 4E F5 5E 4E ED B3 1A 9A FB 2E 33 3A D3 9F 1B 68 4F DD 63 09",
-  "mirrors": ["https://dev.sum7.eu/sum7/Conversations-nightly/raw/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo",
-  "fingerprint": "4B 6F 21 3E B2 A6 1B 11 04 7C 55 09 D7 95 6A 20 A0 C9 69 AF 60 8B 85 E1 C8 85 4E 9A 88 8D F9 BE",
-  "mirrors": ["https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.cakelabs.com/",
-  "fingerprint": "EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0 64 E5 5F 87 55",
-  "mirrors": ["https://fdroid.cakelabs.com/"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo",
-  "fingerprint": "EC 43 61 0D 9A CC A5 D2 42 6E B2 D5 EB 74 33 19 30 01 4D E7 9D 3C 3A CB C1 7D FE 58 AA 12 60 5F",
-  "mirrors": ["https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://ltt.rs/fdroid/repo",
-  "fingerprint": "9C 2E 57 C8 5C 27 9E 5E 1A 42 7F 6E 87 92 7F C1 E2 27 8F 62 D6 1D 7F CE FD E9 34 6E 56 8C CF 86",
-  "mirrors": ["https://ltt.rs/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.cgeo.org/",
-  "fingerprint": "37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98",
-  "mirrors": ["https://fdroid.cgeo.org/"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.cgeo.org/legacy",
-  "fingerprint": "37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98",
-  "mirrors": ["https://fdroid.cgeo.org/legacy"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.cgeo.org/nightly",
-  "fingerprint": "58 AC 10 2C 3D 6F 16 D0 F4 38 64 15 D7 5B C0 EB 64 46 8C 38 17 41 0E A0 A4 DA 28 91 2E 82 6F 08",
-  "mirrors": ["https://fdroid.cgeo.org/nightly"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://fdroid.aniyomi.org/",
-  "fingerprint": "2A 01 E8 0E BB 8B 50 B5 D4 C0 BF 7D F4 5F 12 47 9C 47 5F 34 B3 F3 F5 AA 57 97 5C 7E 1B C0 B9 C3",
-  "mirrors": ["https://fdroid.aniyomi.org/"]
+  ]
 }
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://repo.the-sauna.icu/repo",
-  "fingerprint": "44 20 FF D2 35 4D 0E 08 AC B2 F1 F4 78 E0 6A 42 00 B3 CF F5 F5 55 15 B0 8E 83 08 DB D2 B6 EF CE",
-  "mirrors": ["https://repo.the-sauna.icu/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo",
-  "fingerprint": "01 38 34 6C 02 A2 03 25 BF 09 1C 52 BC 76 6C 0B 90 FF 36 DD C7 D4 4C 30 82 F5 A8 B2 14 C9 FC 29",
-  "mirrors": ["https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo",
-  "fingerprint": "35 76 59 6C EC DD 70 48 8D 61 CF D9 07 99 A4 9B 7F FD 26 A8 1A 8F EF 1B AD EC 88 D0 69 FA 72 C1",
-  "mirrors": ["https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo",
-  "fingerprint": "7F 1E 1D C0 3B 47 BE 5A E0 C4 D9 77 B9 3B 41 37 FA 11 49 EA B8 A5 62 CA 0E BC 27 64 84 41 13 DE",
-  "mirrors": ["https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://zimbelstern.eu/fdroid/repo",
-  "fingerprint": "28 51 58 DE CE F3 7C B8 DE 7C 5A F1 48 18 AC BF 4A 9B 1F BE 63 11 67 58 EF C2 67 F9 71 CA 23 AA",
-  "mirrors": ["https://zimbelstern.eu/fdroid/repo"]
-},
-{
-  "serialVersion": 1,
-  "id": -1,
-  "address": "https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo",
-  "fingerprint": "AD F8 1D 67 82 67 B1 F0 30 EC 69 17 48 B3 1D 97 7B A4 F3 E9 DA 55 20 FD 19 06 6A B9 50 3B 99 93",
-  "mirrors": ["https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo"]
-}
-]
-}
-
-
